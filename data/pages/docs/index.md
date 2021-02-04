@@ -2,13 +2,15 @@
 title: Оффициальные документы
 ---
 
+<article>
+
 <p>НОРМАТИВНЫЕ ДОКУМЕНТЫ</p>
 <ul>
 <li><a href="http://muzeyrb.ru/wp-content/uploads/2015/10/ustav.pdf" title="">Устав</a></li>
 <li><a href="http://muzeyrb.ru/wp-content/uploads/2015/10/izmenenie-ustav-2.pdf" title="">Изменения в Устав 2</a></li>
 <li><a href="http://muzeyrb.ru/wp-content/uploads/2015/10/svvo_gosreg.rar" title="">Свидетельство о гос.регистрации 01.07.11 г.</a></li>
 <li><a href="http://muzeyrb.ru/wp-content/uploads/2015/10/reshenii_o_sozdanii.rar" title="">Решение о реорганизации государственных учреждений культуры</a></li>
-<li><a href="http://muzeyrb.ru/wp-content/uploads/2020/01/Prikaz-o-naznachenii-Boronoeva-TA-2020.pdf">Приказ о назначении Бороноева ТА 2020</a></li>
+<li><a href="http://2020.muzeyrb.ru/wp-content/uploads/2021/01/Prikaz-o-naznachenii-Boronoevoy-T.A.-14.01.2021.pdf">Приказ о назначении Бороноева ТА от 14.01.2021 г.</a></li>
 <li><a href="http://muzeyrb.ru/wp-content/uploads/2015/10/svidetelstvo_postanovke_uchet.rar" title="">Свидетельство о постановке на учет</a></li>
 <li><a href="http://muzeyrb.ru/wp-content/uploads/2015/10/vipiskaEGRUL.rar" title="">Выписка из ЕГРЮЛ</a></li>
 <li><a href="http://muzeyrb.ru/wp-content/uploads/2020/09/polozhenie-o-strukturnykh-podrazdeleniyakh.pdf">Положение о структурных подразделениях</a></li>
@@ -61,8 +63,12 @@ title: Оффициальные документы
 <li><a href="http://muzeyrb.ru/wp-content/uploads/2019/12/Svedeniya-ob-operaciyakh-s-celevymi-subsidiyami-ot-23.12.2019g.-1.pdf">Сведения об операциях с целевыми субсидиями от 23.12.2019г. (1)</a></li>
 <li><a href="http://muzeyrb.ru/wp-content/uploads/2020/01/Plan-FKHD-na-2019-g.-vnesenie-izmeneniy-ot-27.12.2019g.pdf">План ФХД на 2019 г. внесение изменений от 27.12.2019г.</a></li>
 <li><a href="http://muzeyrb.ru/wp-content/uploads/2020/12/Gos.zadanie-na-2020g.-vnesenie-izmeneniy-ot-04.12.2020g.pdf">Гос.задание на 2020г. и плановой период 2021 и 2022 гг.</a></li>
-<li><a href="http://muzeyrb.ru/wp-content/uploads/2020/08/Plan-FKHD-na-2020-g.-vnesenie-izmeneniy-ot-30.07.2020g.pdf">План ФХД на 2020 год и плановый период 2021 и 2022 гг (внесение изменений от 30.07.2020 г. )</a></li>
 <li><a href="http://muzeyrb.ru/wp-content/uploads/2020/07/Svedeniya-ob-operaciyakh-s-celevymi-subsidiyami-ot-03.07.2020g.pdf">Сведения об операциях с целевыми субсидиями от 03.07.2020г.</a></li>
+<li><a href="http://2020.muzeyrb.ru/wp-content/uploads/2021/01/Plan-FKHD-na-2020-g.-vnesenie-izmeneniy-ot-30.12.2020g.-2.pdf">План ФХД на 2020 г. внесение изменений от 30.12.2020г.</a></li>
+<li><a href="http://2020.muzeyrb.ru/wp-content/uploads/2021/01/Gos.zadanie-na-2021g.-i-planovoy-period-2022-i-2023gg.pdf">План ФХД на 2021 г.</a></li>
+<li><a href="http://2020.muzeyrb.ru/wp-content/uploads/2021/01/Gos.zadanie-na-2021g.-i-planovoy-period-2022-i-2023gg.pdf">Гос.задание на 2021г. и плановой период 2022 и 2023гг.</a></li>
+<li><a class="row-title" href="http://2020.muzeyrb.ru/wp-content/uploads/2021/01/Plan-FKHD-na-2021-g.-1.pdf" aria-label="«План ФХД на 2021 г. (1)» (Изменить)">План ФХД на 2021 г. (1)</a></li>
+<li><a class="row-title" href="http://2020.muzeyrb.ru/wp-content/uploads/2021/01/Gos.zadanie-na-2021g.-i-planovoy-period-2022-i-2023gg.-1.pdf" aria-label="«Гос.задание на 2021г. и плановой период 2022 и 2023гг. (1)» (Изменить)">Гос.задание на 2021г. и плановой период 2022 и 2023гг. (1)</a></li>
 </ul>
 <p>&nbsp;</p>
 <p>ОТЧЕТ О ДЕЯТЕЛЬНОСТИ</p>
@@ -136,6 +142,8 @@ title: Оффициальные документы
 <li><a href="http://muzeyrb.ru/wp-content/uploads/2020/07/Otchet-o-vypolnenii-gos.zadaniya-za-1-polugodie-2020g.doc.pdf">Отчет о выполнении гос.задания за 1 полугодие 2020г.</a></li>
 <li><a href="http://muzeyrb.ru/wp-content/uploads/2020/10/Otchet-o-vypolnenii-gos.zadaniya-za-9-mesyacev-2020g.pdf">Отчет о выполнении гос.задания за 9 месяцев 2020г.</a></li>
 <li><a href="http://muzeyrb.ru/wp-content/uploads/2020/12/Predvaritelnyy-otchet-o-vypolnenii-gos.zadaniya-za-2020g.pdf">Предварительный отчет о выполнении гос.задания за 2020г.</a></li>
+<li><a href="http://2020.muzeyrb.ru/wp-content/uploads/2021/01/Otchet-o-vypolnenii-gos.zadaniya-za-2020g.pdf">Отчет о выполнении гос.задания за 2020г.</a></li>
+<li><a class="row-title" href="http://2020.muzeyrb.ru/wp-content/uploads/2021/01/Otchet-o-vypolnenii-gos.zadaniya-za-2020g.-2.pdf" aria-label="«Отчет о выполнении гос.задания за 2020г. (2)» (Изменить)">Отчет о выполнении гос.задания за 2020г. (2)</a></li>
 </ul>
 <p>&nbsp;</p>
 <p>ИНФОРМАЦИОННО-АНАЛИТИЧЕСКИЙ ОТЧЁТ</p>
@@ -167,3 +175,7 @@ title: Оффициальные документы
 <p><a href="http://muzeyrb.ru/wp-content/uploads/2018/10/avtonomni.docx">ФЕДЕРАЛЬНЫЙ ЗАКОН ОБ АВТОНОМНЫХ УЧРЕЖДЕНИЯХ&nbsp;&nbsp;</a></p>
 <p>&nbsp;</p>
 <p><a href="http://muzeyrb.ru/2020/09/11/materialno-tekhnicheskoe-obespechenie/">МАТЕРИАЛЬНО-ТЕХНИЧЕСКОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЕНИЯ УСЛУГ&nbsp;</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+                                                    </article>
